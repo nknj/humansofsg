@@ -3,3 +3,5 @@
 *.pyc
 humansofsg/settings/local.py
 venv/
+media/*
+.DS_Store
